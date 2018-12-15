@@ -1,0 +1,5 @@
+addr 029e, opcode 20 (jr nz, r8)
+addr 0214, how is address 0xff44 being set to 0x3d?\n
+somethihng to do with io ports!
+
+0xff44 is scanline! bits 0 and 1 of 0xff41 are lcd status 
